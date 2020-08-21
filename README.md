@@ -1,2 +1,1 @@
-# assignments
-CSC 696D Assignments
+# CSC 696D Assignments
