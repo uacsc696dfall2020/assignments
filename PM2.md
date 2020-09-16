@@ -100,7 +100,7 @@ level section before this one.
 
 * A "Methodology Background" subsection to describe a methodology you are
   choosing to follow. For example, a
-[https://arxiv.org/pdf/2005.04058.pdf](recent paper) using Grounded Theory
+[recent paper](https://arxiv.org/pdf/2005.04058.pdf) using Grounded Theory
 Methodology describes what it is in general before describing the paper's
 particular application of it.
 
@@ -142,9 +142,9 @@ NOT** email Dr. Kobus Barnard about this proposal. This is for class use and
 educational purposes only.
 
 I am expecting you to do Step 4 of the
-[https://rgw.arizona.edu/compliance/human-subjects-protection-program/getting-started](new
-IRB Proposal Process) and **ONLY Step 4**. Please omit the list of research
-personnel and the CVs. Do include the [https://rgw.arizona.edu/compliance/human-subjects-protection-program/HSPP-form/forms-index](Application for Human Research) (and any applicable appendices on that page), Informed Consent Forms, and Recruitment Materials.
+[New IRB Project proposal process](https://rgw.arizona.edu/compliance/human-subjects-protection-program/getting-started)
+and **ONLY Step 4**. Please omit the list of research
+personnel and the CVs. Do include the [Application for Human Research](https://rgw.arizona.edu/compliance/human-subjects-protection-program/HSPP-form/forms-index) (and any applicable appendices on that page), Informed Consent Forms, and Recruitment Materials.
 
 You do not need to include Data Collection Tools if you do not yet have them. 
 
