@@ -1,7 +1,8 @@
-## Project In-Progress Presentationn
+## Project In-Progress Presentation
 
 Version History: 
 
+- Revised, 2020/10/04 -- Feedback mechanism changed from D2L quiz to Google Forms
 - Released, 2020/09/30
 
 In this exercise we are:
@@ -76,19 +77,19 @@ you may not limit Google Drive uploads to that domain.
 You are expected to be active in the discussion of each presentation. You will
 be assessed on your participation (10 pts) during the presentations.
 
-There will be a quiz (10 pts) for each presentation with two questions:
+There will be a ~~quiz~~ Google Form (10 pts) for each presentation with two questions:
 
 1. What do you think are the strengths of the research design.
 2. What do you think can be improved about the research design.
 
 Your answers will be shared with the presenter **without your name attached.**
-The quiz should be completed within 36 hours after the presentation. 
+The ~~quiz~~ form should be completed within 36 hours after the presentation. 
 
 If you are unable to attend the synchronous discussion, you must watch the
-recording of the presentation and subsequennt discussion. Then, go to the
-thread regarding the presenntation and make at least one novel suggestion and
+recording of the presentation and subsequent discussion. Then, go to the
+thread regarding the presentation and make at least one novel suggestion and
 respond to two suggestions made during the recording. You may also ask
-quuesitons, clarifying or otherwise, to help your response. You must also
+quesitons, clarifying or otherwise, to help your response. You must also
 complete the associated quiz.
 
 
