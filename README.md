@@ -5,3 +5,4 @@
 - [Project Milestone 1](PM1.md) - Due 2020/09/17
 - [Project Milestone 2](PM2.md) - Due 2020/10/08
 - [Project In-Progress Presentation](progress.md) - Due 2020/10/13
+- [Project Milestone 3](PM3.md) - Due 2020/10/29
