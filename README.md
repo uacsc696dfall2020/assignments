@@ -7,3 +7,4 @@
 - [Project In-Progress Presentation](progress.md) - Due 2020/10/13
 - [Project Milestone 3](PM3.md) - Due 2020/10/29
 - [Project Milestone 4](PM4.md) - Due 2020/11/19
+- [Project Final Presentation](final.md) - Due 2020/12/03
